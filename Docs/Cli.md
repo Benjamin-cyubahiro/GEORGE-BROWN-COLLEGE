@@ -1,5 +1,3 @@
-# GEORGE-BROWN-COLLEGE
+ls command is used for listing
 
-
-Lab 6
-[CLI commmands] (Docs/Cli.md)
+cat command id used for reading file
