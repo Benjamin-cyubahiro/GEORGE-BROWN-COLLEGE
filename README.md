@@ -26,3 +26,5 @@ end of line
 end-of-line
 outline
 linear
+
+[CLI commmands] (Docs/Cli.md)
